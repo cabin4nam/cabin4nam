@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=F57B6B&height=300&section=header&text=capsule%20render&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=F57B6B&height=300&section=header&text=capsule%20render&fontSize=90) -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam)
 
 <!--
