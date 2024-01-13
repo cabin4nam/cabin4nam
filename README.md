@@ -1,9 +1,8 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam)](https://github.com/anuraghazra/github-readme-stats)
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cabin4nam&show_icons=true">
 
 📖Tech Stack📖
 💫 Platforms & Languages 💫
