@@ -1,8 +1,7 @@
 ### Nam Ga Bin 👋👩‍💻
 <div>
-	<span>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)</span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
 </div>
 📖Tech Stack📖
 <br>
