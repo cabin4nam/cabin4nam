@@ -4,7 +4,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
 
-📖Tech Stack📖
+<div align="center">
+####📖Tech Stack📖 
+<tr></tr>
+</div>
 <br>
 <div align="center">
 💫 Platforms & Languages 💫
