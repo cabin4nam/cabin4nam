@@ -1,7 +1,9 @@
 ### Nam Ga Bin 👋👩‍💻
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)
-	
-
+<div>
+	<span>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)</span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
+</div>
 📖Tech Stack📖
 <br>
 <div align="center">
@@ -18,7 +20,6 @@
 <br>
 <div align="center">
 🛠️ Tools 🛠️
-
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"><br><br>
+
 
 <!--
 **cabin4nam/cabin4nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
