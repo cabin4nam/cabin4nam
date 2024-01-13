@@ -1,10 +1,11 @@
-### Hi there 👋
+### Nam Ga Bin 👋👩‍💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"><br><br>
+	
 
 📖Tech Stack📖
+<br>
+<div align="center">
 💫 Platforms & Languages 💫
-	<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -14,8 +15,10 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white" />
 </div>
-🛠️ Tools 🛠️
+<br>
 <div align="center">
+🛠️ Tools 🛠️
+
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -24,7 +27,9 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
-🎨 Blog 🎨
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"><br><br>
+
 <!--
 **cabin4nam/cabin4nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
