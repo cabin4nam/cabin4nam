@@ -1,10 +1,10 @@
-# Nam Ga Bin 👋👩‍💻
-
+### Nam Ga Bin 👋👩‍💻
 <p align="center">
   <a href="https://solved.ac/cabin4nam/" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam" alt="Solved.ac Profile">
   </a>
 </p>
+<br>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>-->
 
 <div align="center">
@@ -12,7 +12,7 @@
 <hr>
 </div>
 <div align="center">
-💫 Platforms & Languages 💫
+<b>💫 Platforms & Languages 💫</b>
 	 <br><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align="center">
-🛠️ Tools 🛠️
+<b>🛠️ Tools 🛠️</b>
 	 <br>
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
