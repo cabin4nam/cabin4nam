@@ -1,9 +1,9 @@
 ### Nam Ga Bin 👋👩‍💻
-<div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cabin4nam)](https://solved.ac/cabin4nam/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
-</div>
+
 📖Tech Stack📖
 <br>
 <div align="center">
