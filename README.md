@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabin4nam&layout=compact"></span><br><br>
 
 <div align="center">
-### 📖 TECH STACK 📖 
+<b>📖 TECH STACK 📖 </b>
 <hr>
 </div>
 <br>
